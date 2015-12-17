@@ -1,0 +1,6 @@
+name              "reconnoiter"
+maintainer       "Michal Taborsky"
+maintainer_email "michal@taborsky.cz"
+license          "Apache 2.0"
+description      "Provides LWRPs for reconnoiter checks"
+version          "1.0.0"
